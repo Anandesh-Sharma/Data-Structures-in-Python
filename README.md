@@ -1,4 +1,4 @@
-# Data-Structures-in-Python
+# *Data Structures in Python*
 All basic data structures using python
 
 1. Arrays
